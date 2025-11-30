@@ -1,0 +1,4 @@
+#!/bin/bash
+func(){
+    local BEST="School"
+}
